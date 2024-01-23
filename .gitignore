@@ -1,0 +1,8 @@
+# Virtual environment.
+venv
+
+# Python byte-code.
+__pycache__
+
+# DB.
+db.sqlite3
